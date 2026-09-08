@@ -1,0 +1,2751 @@
+{
+ "sounds": {
+  "Minecraft/ambient/cave/cave1": {
+   "file": "audio/Minecraft__ambient__cave__cave1.opus",
+   "volume": 1.0,
+   "bytes": 49940
+  },
+  "Minecraft/ambient/cave/cave10": {
+   "file": "audio/Minecraft__ambient__cave__cave10.opus",
+   "volume": 1.0,
+   "bytes": 31436
+  },
+  "Minecraft/ambient/cave/cave11": {
+   "file": "audio/Minecraft__ambient__cave__cave11.opus",
+   "volume": 1.0,
+   "bytes": 42618
+  },
+  "Minecraft/ambient/cave/cave12": {
+   "file": "audio/Minecraft__ambient__cave__cave12.opus",
+   "volume": 1.0,
+   "bytes": 26120
+  },
+  "Minecraft/ambient/cave/cave13": {
+   "file": "audio/Minecraft__ambient__cave__cave13.opus",
+   "volume": 1.0,
+   "bytes": 36730
+  },
+  "Minecraft/ambient/cave/cave1_fixed": {
+   "file": "audio/Minecraft__ambient__cave__cave1_fixed.opus",
+   "volume": 1.0,
+   "bytes": 28730
+  },
+  "Minecraft/ambient/cave/cave2": {
+   "file": "audio/Minecraft__ambient__cave__cave2.opus",
+   "volume": 1.0,
+   "bytes": 53618
+  },
+  "Minecraft/ambient/cave/cave3": {
+   "file": "audio/Minecraft__ambient__cave__cave3.opus",
+   "volume": 1.0,
+   "bytes": 63134
+  },
+  "Minecraft/ambient/cave/cave4": {
+   "file": "audio/Minecraft__ambient__cave__cave4.opus",
+   "volume": 1.0,
+   "bytes": 55714
+  },
+  "Minecraft/ambient/cave/cave5": {
+   "file": "audio/Minecraft__ambient__cave__cave5.opus",
+   "volume": 1.0,
+   "bytes": 102088
+  },
+  "Minecraft/ambient/cave/cave6": {
+   "file": "audio/Minecraft__ambient__cave__cave6.opus",
+   "volume": 1.0,
+   "bytes": 46638
+  },
+  "Minecraft/ambient/cave/cave7": {
+   "file": "audio/Minecraft__ambient__cave__cave7.opus",
+   "volume": 1.0,
+   "bytes": 47322
+  },
+  "Minecraft/ambient/cave/cave8": {
+   "file": "audio/Minecraft__ambient__cave__cave8.opus",
+   "volume": 1.0,
+   "bytes": 70216
+  },
+  "Minecraft/ambient/cave/cave8_fixed": {
+   "file": "audio/Minecraft__ambient__cave__cave8_fixed.opus",
+   "volume": 1.0,
+   "bytes": 42222
+  },
+  "Minecraft/ambient/cave/cave9": {
+   "file": "audio/Minecraft__ambient__cave__cave9.opus",
+   "volume": 1.0,
+   "bytes": 39816
+  },
+  "Minecraft/ambient/weather/rain1": {
+   "file": "audio/Minecraft__ambient__weather__rain1.opus",
+   "volume": 1.0,
+   "bytes": 33208
+  },
+  "Minecraft/ambient/weather/rain2": {
+   "file": "audio/Minecraft__ambient__weather__rain2.opus",
+   "volume": 1.0,
+   "bytes": 33040
+  },
+  "Minecraft/ambient/weather/rain3": {
+   "file": "audio/Minecraft__ambient__weather__rain3.opus",
+   "volume": 1.0,
+   "bytes": 33104
+  },
+  "Minecraft/ambient/weather/rain4": {
+   "file": "audio/Minecraft__ambient__weather__rain4.opus",
+   "volume": 1.0,
+   "bytes": 32316
+  },
+  "Minecraft/ambient/weather/thunder1": {
+   "file": "audio/Minecraft__ambient__weather__thunder1.opus",
+   "volume": 1.0,
+   "bytes": 60074
+  },
+  "Minecraft/ambient/weather/thunder2": {
+   "file": "audio/Minecraft__ambient__weather__thunder2.opus",
+   "volume": 1.0,
+   "bytes": 57154
+  },
+  "Minecraft/ambient/weather/thunder3": {
+   "file": "audio/Minecraft__ambient__weather__thunder3.opus",
+   "volume": 1.0,
+   "bytes": 67652
+  },
+  "Minecraft/damage/fallbig1": {
+   "file": "audio/Minecraft__damage__fallbig1.opus",
+   "volume": 1.0,
+   "bytes": 8510
+  },
+  "Minecraft/damage/fallbig2": {
+   "file": "audio/Minecraft__damage__fallbig2.opus",
+   "volume": 1.0,
+   "bytes": 6908
+  },
+  "Minecraft/damage/fallsmall": {
+   "file": "audio/Minecraft__damage__fallsmall.opus",
+   "volume": 1.0,
+   "bytes": 5384
+  },
+  "Minecraft/damage/hurtflesh1": {
+   "file": "audio/Minecraft__damage__hurtflesh1.opus",
+   "volume": 1.0,
+   "bytes": 7796
+  },
+  "Minecraft/damage/hurtflesh2": {
+   "file": "audio/Minecraft__damage__hurtflesh2.opus",
+   "volume": 1.0,
+   "bytes": 8100
+  },
+  "Minecraft/damage/hurtflesh3": {
+   "file": "audio/Minecraft__damage__hurtflesh3.opus",
+   "volume": 1.0,
+   "bytes": 7808
+  },
+  "Minecraft/fire/fire": {
+   "file": "audio/Minecraft__fire__fire.opus",
+   "volume": 1.0,
+   "bytes": 27780
+  },
+  "Minecraft/fire/ignite": {
+   "file": "audio/Minecraft__fire__ignite.opus",
+   "volume": 1.0,
+   "bytes": 3622
+  },
+  "Minecraft/liquid/lava": {
+   "file": "audio/Minecraft__liquid__lava.opus",
+   "volume": 1.0,
+   "bytes": 46696
+  },
+  "Minecraft/liquid/lavapop": {
+   "file": "audio/Minecraft__liquid__lavapop.opus",
+   "volume": 1.0,
+   "bytes": 1822
+  },
+  "Minecraft/liquid/splash": {
+   "file": "audio/Minecraft__liquid__splash.opus",
+   "volume": 1.0,
+   "bytes": 15228
+  },
+  "Minecraft/liquid/water": {
+   "file": "audio/Minecraft__liquid__water.opus",
+   "volume": 1.0,
+   "bytes": 35780
+  },
+  "Minecraft/loops/birds_screaming_loop": {
+   "file": "audio/Minecraft__loops__birds_screaming_loop.opus",
+   "volume": 1.0,
+   "bytes": 1452776
+  },
+  "Minecraft/loops/cave_chimes": {
+   "file": "audio/Minecraft__loops__cave_chimes.opus",
+   "volume": 1.0,
+   "bytes": 1475658
+  },
+  "Minecraft/loops/ocean": {
+   "file": "audio/Minecraft__loops__ocean.opus",
+   "volume": 1.0,
+   "bytes": 2121410
+  },
+  "Minecraft/loops/waterfall": {
+   "file": "audio/Minecraft__loops__waterfall.opus",
+   "volume": 1.0,
+   "bytes": 228224
+  },
+  "Minecraft/mob/blaze/breathe1": {
+   "file": "audio/Minecraft__mob__blaze__breathe1.opus",
+   "volume": 1.0,
+   "bytes": 38412
+  },
+  "Minecraft/mob/blaze/breathe2": {
+   "file": "audio/Minecraft__mob__blaze__breathe2.opus",
+   "volume": 1.0,
+   "bytes": 35932
+  },
+  "Minecraft/mob/blaze/breathe3": {
+   "file": "audio/Minecraft__mob__blaze__breathe3.opus",
+   "volume": 1.0,
+   "bytes": 35848
+  },
+  "Minecraft/mob/blaze/breathe4": {
+   "file": "audio/Minecraft__mob__blaze__breathe4.opus",
+   "volume": 1.0,
+   "bytes": 37872
+  },
+  "Minecraft/mob/blaze/death": {
+   "file": "audio/Minecraft__mob__blaze__death.opus",
+   "volume": 1.0,
+   "bytes": 51282
+  },
+  "Minecraft/mob/blaze/hit1": {
+   "file": "audio/Minecraft__mob__blaze__hit1.opus",
+   "volume": 1.0,
+   "bytes": 6544
+  },
+  "Minecraft/mob/blaze/hit2": {
+   "file": "audio/Minecraft__mob__blaze__hit2.opus",
+   "volume": 1.0,
+   "bytes": 6472
+  },
+  "Minecraft/mob/blaze/hit3": {
+   "file": "audio/Minecraft__mob__blaze__hit3.opus",
+   "volume": 1.0,
+   "bytes": 7084
+  },
+  "Minecraft/mob/blaze/hit4": {
+   "file": "audio/Minecraft__mob__blaze__hit4.opus",
+   "volume": 1.0,
+   "bytes": 7060
+  },
+  "Minecraft/mob/cat/hiss1": {
+   "file": "audio/Minecraft__mob__cat__hiss1.opus",
+   "volume": 1.0,
+   "bytes": 41578
+  },
+  "Minecraft/mob/cat/hiss2": {
+   "file": "audio/Minecraft__mob__cat__hiss2.opus",
+   "volume": 1.0,
+   "bytes": 40708
+  },
+  "Minecraft/mob/cat/hiss3": {
+   "file": "audio/Minecraft__mob__cat__hiss3.opus",
+   "volume": 1.0,
+   "bytes": 39894
+  },
+  "Minecraft/mob/cat/hitt1": {
+   "file": "audio/Minecraft__mob__cat__hitt1.opus",
+   "volume": 1.0,
+   "bytes": 13646
+  },
+  "Minecraft/mob/cat/hitt2": {
+   "file": "audio/Minecraft__mob__cat__hitt2.opus",
+   "volume": 1.0,
+   "bytes": 17818
+  },
+  "Minecraft/mob/cat/hitt3": {
+   "file": "audio/Minecraft__mob__cat__hitt3.opus",
+   "volume": 1.0,
+   "bytes": 13260
+  },
+  "Minecraft/mob/cat/meow1": {
+   "file": "audio/Minecraft__mob__cat__meow1.opus",
+   "volume": 1.0,
+   "bytes": 18944
+  },
+  "Minecraft/mob/cat/meow2": {
+   "file": "audio/Minecraft__mob__cat__meow2.opus",
+   "volume": 1.0,
+   "bytes": 19430
+  },
+  "Minecraft/mob/cat/meow3": {
+   "file": "audio/Minecraft__mob__cat__meow3.opus",
+   "volume": 1.0,
+   "bytes": 18970
+  },
+  "Minecraft/mob/cat/meow4": {
+   "file": "audio/Minecraft__mob__cat__meow4.opus",
+   "volume": 1.0,
+   "bytes": 17430
+  },
+  "Minecraft/mob/cat/purr1": {
+   "file": "audio/Minecraft__mob__cat__purr1.opus",
+   "volume": 1.0,
+   "bytes": 68298
+  },
+  "Minecraft/mob/cat/purr2": {
+   "file": "audio/Minecraft__mob__cat__purr2.opus",
+   "volume": 1.0,
+   "bytes": 61794
+  },
+  "Minecraft/mob/cat/purr3": {
+   "file": "audio/Minecraft__mob__cat__purr3.opus",
+   "volume": 1.0,
+   "bytes": 78674
+  },
+  "Minecraft/mob/cat/purreow1": {
+   "file": "audio/Minecraft__mob__cat__purreow1.opus",
+   "volume": 1.0,
+   "bytes": 22286
+  },
+  "Minecraft/mob/cat/purreow2": {
+   "file": "audio/Minecraft__mob__cat__purreow2.opus",
+   "volume": 1.0,
+   "bytes": 25814
+  },
+  "Minecraft/mob/chicken1": {
+   "file": "audio/Minecraft__mob__chicken1.opus",
+   "volume": 1.0,
+   "bytes": 7914
+  },
+  "Minecraft/mob/chicken2": {
+   "file": "audio/Minecraft__mob__chicken2.opus",
+   "volume": 1.0,
+   "bytes": 10160
+  },
+  "Minecraft/mob/chicken3": {
+   "file": "audio/Minecraft__mob__chicken3.opus",
+   "volume": 1.0,
+   "bytes": 5244
+  },
+  "Minecraft/mob/chickenhurt1": {
+   "file": "audio/Minecraft__mob__chickenhurt1.opus",
+   "volume": 1.0,
+   "bytes": 7394
+  },
+  "Minecraft/mob/chickenhurt2": {
+   "file": "audio/Minecraft__mob__chickenhurt2.opus",
+   "volume": 1.0,
+   "bytes": 5038
+  },
+  "Minecraft/mob/chickenplop": {
+   "file": "audio/Minecraft__mob__chickenplop.opus",
+   "volume": 1.0,
+   "bytes": 1702
+  },
+  "Minecraft/mob/cow1": {
+   "file": "audio/Minecraft__mob__cow1.opus",
+   "volume": 1.0,
+   "bytes": 16596
+  },
+  "Minecraft/mob/cow2": {
+   "file": "audio/Minecraft__mob__cow2.opus",
+   "volume": 1.0,
+   "bytes": 16388
+  },
+  "Minecraft/mob/cow3": {
+   "file": "audio/Minecraft__mob__cow3.opus",
+   "volume": 1.0,
+   "bytes": 24340
+  },
+  "Minecraft/mob/cow4": {
+   "file": "audio/Minecraft__mob__cow4.opus",
+   "volume": 1.0,
+   "bytes": 17814
+  },
+  "Minecraft/mob/cowhurt1": {
+   "file": "audio/Minecraft__mob__cowhurt1.opus",
+   "volume": 1.0,
+   "bytes": 6442
+  },
+  "Minecraft/mob/cowhurt2": {
+   "file": "audio/Minecraft__mob__cowhurt2.opus",
+   "volume": 1.0,
+   "bytes": 5862
+  },
+  "Minecraft/mob/cowhurt3": {
+   "file": "audio/Minecraft__mob__cowhurt3.opus",
+   "volume": 1.0,
+   "bytes": 6696
+  },
+  "Minecraft/mob/creeper1": {
+   "file": "audio/Minecraft__mob__creeper1.opus",
+   "volume": 1.0,
+   "bytes": 8326
+  },
+  "Minecraft/mob/creeper2": {
+   "file": "audio/Minecraft__mob__creeper2.opus",
+   "volume": 1.0,
+   "bytes": 8520
+  },
+  "Minecraft/mob/creeper3": {
+   "file": "audio/Minecraft__mob__creeper3.opus",
+   "volume": 1.0,
+   "bytes": 7846
+  },
+  "Minecraft/mob/creeper4": {
+   "file": "audio/Minecraft__mob__creeper4.opus",
+   "volume": 1.0,
+   "bytes": 8768
+  },
+  "Minecraft/mob/creeperdeath": {
+   "file": "audio/Minecraft__mob__creeperdeath.opus",
+   "volume": 1.0,
+   "bytes": 16792
+  },
+  "Minecraft/mob/enderdragon/end": {
+   "file": "audio/Minecraft__mob__enderdragon__end.opus",
+   "volume": 1.0,
+   "bytes": 453292
+  },
+  "Minecraft/mob/enderdragon/growl1": {
+   "file": "audio/Minecraft__mob__enderdragon__growl1.opus",
+   "volume": 1.0,
+   "bytes": 43474
+  },
+  "Minecraft/mob/enderdragon/growl2": {
+   "file": "audio/Minecraft__mob__enderdragon__growl2.opus",
+   "volume": 1.0,
+   "bytes": 45582
+  },
+  "Minecraft/mob/enderdragon/growl3": {
+   "file": "audio/Minecraft__mob__enderdragon__growl3.opus",
+   "volume": 1.0,
+   "bytes": 45098
+  },
+  "Minecraft/mob/enderdragon/growl4": {
+   "file": "audio/Minecraft__mob__enderdragon__growl4.opus",
+   "volume": 1.0,
+   "bytes": 43654
+  },
+  "Minecraft/mob/enderdragon/hit1": {
+   "file": "audio/Minecraft__mob__enderdragon__hit1.opus",
+   "volume": 1.0,
+   "bytes": 11830
+  },
+  "Minecraft/mob/enderdragon/hit2": {
+   "file": "audio/Minecraft__mob__enderdragon__hit2.opus",
+   "volume": 1.0,
+   "bytes": 12838
+  },
+  "Minecraft/mob/enderdragon/hit3": {
+   "file": "audio/Minecraft__mob__enderdragon__hit3.opus",
+   "volume": 1.0,
+   "bytes": 13030
+  },
+  "Minecraft/mob/enderdragon/hit4": {
+   "file": "audio/Minecraft__mob__enderdragon__hit4.opus",
+   "volume": 1.0,
+   "bytes": 12510
+  },
+  "Minecraft/mob/enderdragon/wings1": {
+   "file": "audio/Minecraft__mob__enderdragon__wings1.opus",
+   "volume": 1.0,
+   "bytes": 12634
+  },
+  "Minecraft/mob/enderdragon/wings2": {
+   "file": "audio/Minecraft__mob__enderdragon__wings2.opus",
+   "volume": 1.0,
+   "bytes": 12790
+  },
+  "Minecraft/mob/enderdragon/wings3": {
+   "file": "audio/Minecraft__mob__enderdragon__wings3.opus",
+   "volume": 1.0,
+   "bytes": 12238
+  },
+  "Minecraft/mob/enderdragon/wings4": {
+   "file": "audio/Minecraft__mob__enderdragon__wings4.opus",
+   "volume": 1.0,
+   "bytes": 13794
+  },
+  "Minecraft/mob/enderdragon/wings5": {
+   "file": "audio/Minecraft__mob__enderdragon__wings5.opus",
+   "volume": 1.0,
+   "bytes": 14690
+  },
+  "Minecraft/mob/enderdragon/wings6": {
+   "file": "audio/Minecraft__mob__enderdragon__wings6.opus",
+   "volume": 1.0,
+   "bytes": 14022
+  },
+  "Minecraft/mob/endermen/death": {
+   "file": "audio/Minecraft__mob__endermen__death.opus",
+   "volume": 1.0,
+   "bytes": 27012
+  },
+  "Minecraft/mob/endermen/hit1": {
+   "file": "audio/Minecraft__mob__endermen__hit1.opus",
+   "volume": 1.0,
+   "bytes": 6926
+  },
+  "Minecraft/mob/endermen/hit2": {
+   "file": "audio/Minecraft__mob__endermen__hit2.opus",
+   "volume": 1.0,
+   "bytes": 5336
+  },
+  "Minecraft/mob/endermen/hit3": {
+   "file": "audio/Minecraft__mob__endermen__hit3.opus",
+   "volume": 1.0,
+   "bytes": 4674
+  },
+  "Minecraft/mob/endermen/hit4": {
+   "file": "audio/Minecraft__mob__endermen__hit4.opus",
+   "volume": 1.0,
+   "bytes": 4278
+  },
+  "Minecraft/mob/endermen/idle1": {
+   "file": "audio/Minecraft__mob__endermen__idle1.opus",
+   "volume": 1.0,
+   "bytes": 5054
+  },
+  "Minecraft/mob/endermen/idle2": {
+   "file": "audio/Minecraft__mob__endermen__idle2.opus",
+   "volume": 1.0,
+   "bytes": 5824
+  },
+  "Minecraft/mob/endermen/idle3": {
+   "file": "audio/Minecraft__mob__endermen__idle3.opus",
+   "volume": 1.0,
+   "bytes": 10648
+  },
+  "Minecraft/mob/endermen/idle4": {
+   "file": "audio/Minecraft__mob__endermen__idle4.opus",
+   "volume": 1.0,
+   "bytes": 11660
+  },
+  "Minecraft/mob/endermen/idle5": {
+   "file": "audio/Minecraft__mob__endermen__idle5.opus",
+   "volume": 1.0,
+   "bytes": 7848
+  },
+  "Minecraft/mob/endermen/portal": {
+   "file": "audio/Minecraft__mob__endermen__portal.opus",
+   "volume": 1.0,
+   "bytes": 11750
+  },
+  "Minecraft/mob/endermen/portal2": {
+   "file": "audio/Minecraft__mob__endermen__portal2.opus",
+   "volume": 1.0,
+   "bytes": 7956
+  },
+  "Minecraft/mob/endermen/scream1": {
+   "file": "audio/Minecraft__mob__endermen__scream1.opus",
+   "volume": 1.0,
+   "bytes": 15446
+  },
+  "Minecraft/mob/endermen/scream2": {
+   "file": "audio/Minecraft__mob__endermen__scream2.opus",
+   "volume": 1.0,
+   "bytes": 15566
+  },
+  "Minecraft/mob/endermen/scream3": {
+   "file": "audio/Minecraft__mob__endermen__scream3.opus",
+   "volume": 1.0,
+   "bytes": 12052
+  },
+  "Minecraft/mob/endermen/scream4": {
+   "file": "audio/Minecraft__mob__endermen__scream4.opus",
+   "volume": 1.0,
+   "bytes": 14312
+  },
+  "Minecraft/mob/endermen/stare": {
+   "file": "audio/Minecraft__mob__endermen__stare.opus",
+   "volume": 1.0,
+   "bytes": 228968
+  },
+  "Minecraft/mob/ghast/affectionate_scream": {
+   "file": "audio/Minecraft__mob__ghast__affectionate_scream.opus",
+   "volume": 1.0,
+   "bytes": 10074
+  },
+  "Minecraft/mob/ghast/charge": {
+   "file": "audio/Minecraft__mob__ghast__charge.opus",
+   "volume": 1.0,
+   "bytes": 15638
+  },
+  "Minecraft/mob/ghast/death": {
+   "file": "audio/Minecraft__mob__ghast__death.opus",
+   "volume": 1.0,
+   "bytes": 47046
+  },
+  "Minecraft/mob/ghast/fireball4": {
+   "file": "audio/Minecraft__mob__ghast__fireball4.opus",
+   "volume": 1.0,
+   "bytes": 11234
+  },
+  "Minecraft/mob/ghast/moan1": {
+   "file": "audio/Minecraft__mob__ghast__moan1.opus",
+   "volume": 1.0,
+   "bytes": 10184
+  },
+  "Minecraft/mob/ghast/moan2": {
+   "file": "audio/Minecraft__mob__ghast__moan2.opus",
+   "volume": 1.0,
+   "bytes": 10676
+  },
+  "Minecraft/mob/ghast/moan3": {
+   "file": "audio/Minecraft__mob__ghast__moan3.opus",
+   "volume": 1.0,
+   "bytes": 11484
+  },
+  "Minecraft/mob/ghast/moan4": {
+   "file": "audio/Minecraft__mob__ghast__moan4.opus",
+   "volume": 1.0,
+   "bytes": 13854
+  },
+  "Minecraft/mob/ghast/moan5": {
+   "file": "audio/Minecraft__mob__ghast__moan5.opus",
+   "volume": 1.0,
+   "bytes": 22238
+  },
+  "Minecraft/mob/ghast/moan6": {
+   "file": "audio/Minecraft__mob__ghast__moan6.opus",
+   "volume": 1.0,
+   "bytes": 29846
+  },
+  "Minecraft/mob/ghast/moan7": {
+   "file": "audio/Minecraft__mob__ghast__moan7.opus",
+   "volume": 1.0,
+   "bytes": 10386
+  },
+  "Minecraft/mob/ghast/scream1": {
+   "file": "audio/Minecraft__mob__ghast__scream1.opus",
+   "volume": 1.0,
+   "bytes": 16422
+  },
+  "Minecraft/mob/ghast/scream2": {
+   "file": "audio/Minecraft__mob__ghast__scream2.opus",
+   "volume": 1.0,
+   "bytes": 17780
+  },
+  "Minecraft/mob/ghast/scream3": {
+   "file": "audio/Minecraft__mob__ghast__scream3.opus",
+   "volume": 1.0,
+   "bytes": 11926
+  },
+  "Minecraft/mob/ghast/scream4": {
+   "file": "audio/Minecraft__mob__ghast__scream4.opus",
+   "volume": 1.0,
+   "bytes": 18478
+  },
+  "Minecraft/mob/ghast/scream5": {
+   "file": "audio/Minecraft__mob__ghast__scream5.opus",
+   "volume": 1.0,
+   "bytes": 16542
+  },
+  "Minecraft/mob/magmacube/big1": {
+   "file": "audio/Minecraft__mob__magmacube__big1.opus",
+   "volume": 1.0,
+   "bytes": 9180
+  },
+  "Minecraft/mob/magmacube/big2": {
+   "file": "audio/Minecraft__mob__magmacube__big2.opus",
+   "volume": 1.0,
+   "bytes": 7304
+  },
+  "Minecraft/mob/magmacube/big3": {
+   "file": "audio/Minecraft__mob__magmacube__big3.opus",
+   "volume": 1.0,
+   "bytes": 8744
+  },
+  "Minecraft/mob/magmacube/big4": {
+   "file": "audio/Minecraft__mob__magmacube__big4.opus",
+   "volume": 1.0,
+   "bytes": 8910
+  },
+  "Minecraft/mob/magmacube/jump1": {
+   "file": "audio/Minecraft__mob__magmacube__jump1.opus",
+   "volume": 1.0,
+   "bytes": 11454
+  },
+  "Minecraft/mob/magmacube/jump2": {
+   "file": "audio/Minecraft__mob__magmacube__jump2.opus",
+   "volume": 1.0,
+   "bytes": 13962
+  },
+  "Minecraft/mob/magmacube/jump3": {
+   "file": "audio/Minecraft__mob__magmacube__jump3.opus",
+   "volume": 1.0,
+   "bytes": 12852
+  },
+  "Minecraft/mob/magmacube/jump4": {
+   "file": "audio/Minecraft__mob__magmacube__jump4.opus",
+   "volume": 1.0,
+   "bytes": 13314
+  },
+  "Minecraft/mob/magmacube/small1": {
+   "file": "audio/Minecraft__mob__magmacube__small1.opus",
+   "volume": 1.0,
+   "bytes": 3734
+  },
+  "Minecraft/mob/magmacube/small2": {
+   "file": "audio/Minecraft__mob__magmacube__small2.opus",
+   "volume": 1.0,
+   "bytes": 3130
+  },
+  "Minecraft/mob/magmacube/small3": {
+   "file": "audio/Minecraft__mob__magmacube__small3.opus",
+   "volume": 1.0,
+   "bytes": 3112
+  },
+  "Minecraft/mob/magmacube/small4": {
+   "file": "audio/Minecraft__mob__magmacube__small4.opus",
+   "volume": 1.0,
+   "bytes": 2948
+  },
+  "Minecraft/mob/magmacube/small5": {
+   "file": "audio/Minecraft__mob__magmacube__small5.opus",
+   "volume": 1.0,
+   "bytes": 2298
+  },
+  "Minecraft/mob/pig1": {
+   "file": "audio/Minecraft__mob__pig1.opus",
+   "volume": 1.0,
+   "bytes": 4452
+  },
+  "Minecraft/mob/pig2": {
+   "file": "audio/Minecraft__mob__pig2.opus",
+   "volume": 1.0,
+   "bytes": 4928
+  },
+  "Minecraft/mob/pig3": {
+   "file": "audio/Minecraft__mob__pig3.opus",
+   "volume": 1.0,
+   "bytes": 3534
+  },
+  "Minecraft/mob/pigdeath": {
+   "file": "audio/Minecraft__mob__pigdeath.opus",
+   "volume": 1.0,
+   "bytes": 8694
+  },
+  "Minecraft/mob/sheep1": {
+   "file": "audio/Minecraft__mob__sheep1.opus",
+   "volume": 1.0,
+   "bytes": 12390
+  },
+  "Minecraft/mob/sheep2": {
+   "file": "audio/Minecraft__mob__sheep2.opus",
+   "volume": 1.0,
+   "bytes": 11658
+  },
+  "Minecraft/mob/sheep3": {
+   "file": "audio/Minecraft__mob__sheep3.opus",
+   "volume": 1.0,
+   "bytes": 14878
+  },
+  "Minecraft/mob/silverfish/hit1": {
+   "file": "audio/Minecraft__mob__silverfish__hit1.opus",
+   "volume": 1.0,
+   "bytes": 6616
+  },
+  "Minecraft/mob/silverfish/hit2": {
+   "file": "audio/Minecraft__mob__silverfish__hit2.opus",
+   "volume": 1.0,
+   "bytes": 6086
+  },
+  "Minecraft/mob/silverfish/hit3": {
+   "file": "audio/Minecraft__mob__silverfish__hit3.opus",
+   "volume": 1.0,
+   "bytes": 6522
+  },
+  "Minecraft/mob/silverfish/kill": {
+   "file": "audio/Minecraft__mob__silverfish__kill.opus",
+   "volume": 1.0,
+   "bytes": 11618
+  },
+  "Minecraft/mob/silverfish/say1": {
+   "file": "audio/Minecraft__mob__silverfish__say1.opus",
+   "volume": 1.0,
+   "bytes": 5822
+  },
+  "Minecraft/mob/silverfish/say2": {
+   "file": "audio/Minecraft__mob__silverfish__say2.opus",
+   "volume": 1.0,
+   "bytes": 12992
+  },
+  "Minecraft/mob/silverfish/say3": {
+   "file": "audio/Minecraft__mob__silverfish__say3.opus",
+   "volume": 1.0,
+   "bytes": 5766
+  },
+  "Minecraft/mob/silverfish/say4": {
+   "file": "audio/Minecraft__mob__silverfish__say4.opus",
+   "volume": 1.0,
+   "bytes": 6454
+  },
+  "Minecraft/mob/silverfish/step1": {
+   "file": "audio/Minecraft__mob__silverfish__step1.opus",
+   "volume": 1.0,
+   "bytes": 8684
+  },
+  "Minecraft/mob/silverfish/step2": {
+   "file": "audio/Minecraft__mob__silverfish__step2.opus",
+   "volume": 1.0,
+   "bytes": 8456
+  },
+  "Minecraft/mob/silverfish/step3": {
+   "file": "audio/Minecraft__mob__silverfish__step3.opus",
+   "volume": 1.0,
+   "bytes": 8364
+  },
+  "Minecraft/mob/silverfish/step4": {
+   "file": "audio/Minecraft__mob__silverfish__step4.opus",
+   "volume": 1.0,
+   "bytes": 9344
+  },
+  "Minecraft/mob/skeleton1": {
+   "file": "audio/Minecraft__mob__skeleton1.opus",
+   "volume": 1.0,
+   "bytes": 6730
+  },
+  "Minecraft/mob/skeleton2": {
+   "file": "audio/Minecraft__mob__skeleton2.opus",
+   "volume": 1.0,
+   "bytes": 5782
+  },
+  "Minecraft/mob/skeleton3": {
+   "file": "audio/Minecraft__mob__skeleton3.opus",
+   "volume": 1.0,
+   "bytes": 6398
+  },
+  "Minecraft/mob/skeletondeath": {
+   "file": "audio/Minecraft__mob__skeletondeath.opus",
+   "volume": 1.0,
+   "bytes": 5552
+  },
+  "Minecraft/mob/skeletonhurt1": {
+   "file": "audio/Minecraft__mob__skeletonhurt1.opus",
+   "volume": 1.0,
+   "bytes": 5304
+  },
+  "Minecraft/mob/skeletonhurt2": {
+   "file": "audio/Minecraft__mob__skeletonhurt2.opus",
+   "volume": 1.0,
+   "bytes": 5776
+  },
+  "Minecraft/mob/skeletonhurt3": {
+   "file": "audio/Minecraft__mob__skeletonhurt3.opus",
+   "volume": 1.0,
+   "bytes": 5252
+  },
+  "Minecraft/mob/skeletonhurt4": {
+   "file": "audio/Minecraft__mob__skeletonhurt4.opus",
+   "volume": 1.0,
+   "bytes": 4562
+  },
+  "Minecraft/mob/slime1": {
+   "file": "audio/Minecraft__mob__slime1.opus",
+   "volume": 1.0,
+   "bytes": 3714
+  },
+  "Minecraft/mob/slime2": {
+   "file": "audio/Minecraft__mob__slime2.opus",
+   "volume": 1.0,
+   "bytes": 3062
+  },
+  "Minecraft/mob/slime3": {
+   "file": "audio/Minecraft__mob__slime3.opus",
+   "volume": 1.0,
+   "bytes": 3080
+  },
+  "Minecraft/mob/slime4": {
+   "file": "audio/Minecraft__mob__slime4.opus",
+   "volume": 1.0,
+   "bytes": 2916
+  },
+  "Minecraft/mob/slime5": {
+   "file": "audio/Minecraft__mob__slime5.opus",
+   "volume": 1.0,
+   "bytes": 2274
+  },
+  "Minecraft/mob/slimeattack1": {
+   "file": "audio/Minecraft__mob__slimeattack1.opus",
+   "volume": 1.0,
+   "bytes": 6012
+  },
+  "Minecraft/mob/slimeattack2": {
+   "file": "audio/Minecraft__mob__slimeattack2.opus",
+   "volume": 1.0,
+   "bytes": 5236
+  },
+  "Minecraft/mob/spider1": {
+   "file": "audio/Minecraft__mob__spider1.opus",
+   "volume": 1.0,
+   "bytes": 12030
+  },
+  "Minecraft/mob/spider2": {
+   "file": "audio/Minecraft__mob__spider2.opus",
+   "volume": 1.0,
+   "bytes": 7898
+  },
+  "Minecraft/mob/spider3": {
+   "file": "audio/Minecraft__mob__spider3.opus",
+   "volume": 1.0,
+   "bytes": 9042
+  },
+  "Minecraft/mob/spider4": {
+   "file": "audio/Minecraft__mob__spider4.opus",
+   "volume": 1.0,
+   "bytes": 7046
+  },
+  "Minecraft/mob/spiderdeath": {
+   "file": "audio/Minecraft__mob__spiderdeath.opus",
+   "volume": 1.0,
+   "bytes": 21584
+  },
+  "Minecraft/mob/wolf/bark1": {
+   "file": "audio/Minecraft__mob__wolf__bark1.opus",
+   "volume": 1.0,
+   "bytes": 4028
+  },
+  "Minecraft/mob/wolf/bark2": {
+   "file": "audio/Minecraft__mob__wolf__bark2.opus",
+   "volume": 1.0,
+   "bytes": 4200
+  },
+  "Minecraft/mob/wolf/bark3": {
+   "file": "audio/Minecraft__mob__wolf__bark3.opus",
+   "volume": 1.0,
+   "bytes": 4398
+  },
+  "Minecraft/mob/wolf/death": {
+   "file": "audio/Minecraft__mob__wolf__death.opus",
+   "volume": 1.0,
+   "bytes": 9872
+  },
+  "Minecraft/mob/wolf/growl1": {
+   "file": "audio/Minecraft__mob__wolf__growl1.opus",
+   "volume": 1.0,
+   "bytes": 23348
+  },
+  "Minecraft/mob/wolf/growl2": {
+   "file": "audio/Minecraft__mob__wolf__growl2.opus",
+   "volume": 1.0,
+   "bytes": 16988
+  },
+  "Minecraft/mob/wolf/growl3": {
+   "file": "audio/Minecraft__mob__wolf__growl3.opus",
+   "volume": 1.0,
+   "bytes": 26544
+  },
+  "Minecraft/mob/wolf/howl1": {
+   "file": "audio/Minecraft__mob__wolf__howl1.opus",
+   "volume": 1.0,
+   "bytes": 40330
+  },
+  "Minecraft/mob/wolf/howl2": {
+   "file": "audio/Minecraft__mob__wolf__howl2.opus",
+   "volume": 1.0,
+   "bytes": 45356
+  },
+  "Minecraft/mob/wolf/hurt1": {
+   "file": "audio/Minecraft__mob__wolf__hurt1.opus",
+   "volume": 1.0,
+   "bytes": 5998
+  },
+  "Minecraft/mob/wolf/hurt2": {
+   "file": "audio/Minecraft__mob__wolf__hurt2.opus",
+   "volume": 1.0,
+   "bytes": 5594
+  },
+  "Minecraft/mob/wolf/hurt3": {
+   "file": "audio/Minecraft__mob__wolf__hurt3.opus",
+   "volume": 1.0,
+   "bytes": 6448
+  },
+  "Minecraft/mob/wolf/panting": {
+   "file": "audio/Minecraft__mob__wolf__panting.opus",
+   "volume": 1.0,
+   "bytes": 7708
+  },
+  "Minecraft/mob/wolf/shake": {
+   "file": "audio/Minecraft__mob__wolf__shake.opus",
+   "volume": 1.0,
+   "bytes": 23274
+  },
+  "Minecraft/mob/wolf/whine": {
+   "file": "audio/Minecraft__mob__wolf__whine.opus",
+   "volume": 1.0,
+   "bytes": 10238
+  },
+  "Minecraft/mob/zombie/metal1": {
+   "file": "audio/Minecraft__mob__zombie__metal1.opus",
+   "volume": 1.0,
+   "bytes": 8704
+  },
+  "Minecraft/mob/zombie/metal2": {
+   "file": "audio/Minecraft__mob__zombie__metal2.opus",
+   "volume": 1.0,
+   "bytes": 9940
+  },
+  "Minecraft/mob/zombie/metal3": {
+   "file": "audio/Minecraft__mob__zombie__metal3.opus",
+   "volume": 1.0,
+   "bytes": 9592
+  },
+  "Minecraft/mob/zombie/wood1": {
+   "file": "audio/Minecraft__mob__zombie__wood1.opus",
+   "volume": 1.0,
+   "bytes": 7904
+  },
+  "Minecraft/mob/zombie/wood2": {
+   "file": "audio/Minecraft__mob__zombie__wood2.opus",
+   "volume": 1.0,
+   "bytes": 7560
+  },
+  "Minecraft/mob/zombie/wood3": {
+   "file": "audio/Minecraft__mob__zombie__wood3.opus",
+   "volume": 1.0,
+   "bytes": 8452
+  },
+  "Minecraft/mob/zombie/wood4": {
+   "file": "audio/Minecraft__mob__zombie__wood4.opus",
+   "volume": 1.0,
+   "bytes": 8024
+  },
+  "Minecraft/mob/zombie/woodbreak": {
+   "file": "audio/Minecraft__mob__zombie__woodbreak.opus",
+   "volume": 1.0,
+   "bytes": 13112
+  },
+  "Minecraft/mob/zombie1": {
+   "file": "audio/Minecraft__mob__zombie1.opus",
+   "volume": 1.0,
+   "bytes": 22154
+  },
+  "Minecraft/mob/zombie2": {
+   "file": "audio/Minecraft__mob__zombie2.opus",
+   "volume": 1.0,
+   "bytes": 19696
+  },
+  "Minecraft/mob/zombie3": {
+   "file": "audio/Minecraft__mob__zombie3.opus",
+   "volume": 1.0,
+   "bytes": 26090
+  },
+  "Minecraft/mob/zombiedeath": {
+   "file": "audio/Minecraft__mob__zombiedeath.opus",
+   "volume": 1.0,
+   "bytes": 11204
+  },
+  "Minecraft/mob/zombiehurt1": {
+   "file": "audio/Minecraft__mob__zombiehurt1.opus",
+   "volume": 1.0,
+   "bytes": 12140
+  },
+  "Minecraft/mob/zombiehurt2": {
+   "file": "audio/Minecraft__mob__zombiehurt2.opus",
+   "volume": 1.0,
+   "bytes": 12614
+  },
+  "Minecraft/mob/zombiepig/zpig1": {
+   "file": "audio/Minecraft__mob__zombiepig__zpig1.opus",
+   "volume": 1.0,
+   "bytes": 18102
+  },
+  "Minecraft/mob/zombiepig/zpig2": {
+   "file": "audio/Minecraft__mob__zombiepig__zpig2.opus",
+   "volume": 1.0,
+   "bytes": 18446
+  },
+  "Minecraft/mob/zombiepig/zpig3": {
+   "file": "audio/Minecraft__mob__zombiepig__zpig3.opus",
+   "volume": 1.0,
+   "bytes": 6730
+  },
+  "Minecraft/mob/zombiepig/zpig4": {
+   "file": "audio/Minecraft__mob__zombiepig__zpig4.opus",
+   "volume": 1.0,
+   "bytes": 9288
+  },
+  "Minecraft/mob/zombiepig/zpigangry1": {
+   "file": "audio/Minecraft__mob__zombiepig__zpigangry1.opus",
+   "volume": 1.0,
+   "bytes": 17336
+  },
+  "Minecraft/mob/zombiepig/zpigangry2": {
+   "file": "audio/Minecraft__mob__zombiepig__zpigangry2.opus",
+   "volume": 1.0,
+   "bytes": 7296
+  },
+  "Minecraft/mob/zombiepig/zpigangry3": {
+   "file": "audio/Minecraft__mob__zombiepig__zpigangry3.opus",
+   "volume": 1.0,
+   "bytes": 19244
+  },
+  "Minecraft/mob/zombiepig/zpigangry4": {
+   "file": "audio/Minecraft__mob__zombiepig__zpigangry4.opus",
+   "volume": 1.0,
+   "bytes": 22382
+  },
+  "Minecraft/mob/zombiepig/zpigdeath": {
+   "file": "audio/Minecraft__mob__zombiepig__zpigdeath.opus",
+   "volume": 1.0,
+   "bytes": 24282
+  },
+  "Minecraft/mob/zombiepig/zpighurt1": {
+   "file": "audio/Minecraft__mob__zombiepig__zpighurt1.opus",
+   "volume": 1.0,
+   "bytes": 10230
+  },
+  "Minecraft/mob/zombiepig/zpighurt2": {
+   "file": "audio/Minecraft__mob__zombiepig__zpighurt2.opus",
+   "volume": 1.0,
+   "bytes": 8856
+  },
+  "Minecraft/note/bass": {
+   "file": "audio/Minecraft__note__bass.opus",
+   "volume": 1.0,
+   "bytes": 2904
+  },
+  "Minecraft/note/bassattack": {
+   "file": "audio/Minecraft__note__bassattack.opus",
+   "volume": 1.0,
+   "bytes": 2422
+  },
+  "Minecraft/note/bd": {
+   "file": "audio/Minecraft__note__bd.opus",
+   "volume": 1.0,
+   "bytes": 962
+  },
+  "Minecraft/note/btn_Back": {
+   "file": "audio/Minecraft__note__btn_Back.opus",
+   "volume": 1.0,
+   "bytes": 3974
+  },
+  "Minecraft/note/harp": {
+   "file": "audio/Minecraft__note__harp.opus",
+   "volume": 1.0,
+   "bytes": 3554
+  },
+  "Minecraft/note/hat": {
+   "file": "audio/Minecraft__note__hat.opus",
+   "volume": 1.0,
+   "bytes": 896
+  },
+  "Minecraft/note/pling": {
+   "file": "audio/Minecraft__note__pling.opus",
+   "volume": 1.0,
+   "bytes": 4874
+  },
+  "Minecraft/note/snare": {
+   "file": "audio/Minecraft__note__snare.opus",
+   "volume": 1.0,
+   "bytes": 1156
+  },
+  "Minecraft/portal/portal": {
+   "file": "audio/Minecraft__portal__portal.opus",
+   "volume": 1.0,
+   "bytes": 72690
+  },
+  "Minecraft/portal/travel": {
+   "file": "audio/Minecraft__portal__travel.opus",
+   "volume": 1.0,
+   "bytes": 310226
+  },
+  "Minecraft/portal/trigger": {
+   "file": "audio/Minecraft__portal__trigger.opus",
+   "volume": 1.0,
+   "bytes": 123684
+  },
+  "Minecraft/random/bow": {
+   "file": "audio/Minecraft__random__bow.opus",
+   "volume": 1.0,
+   "bytes": 3714
+  },
+  "Minecraft/random/bowhit1": {
+   "file": "audio/Minecraft__random__bowhit1.opus",
+   "volume": 1.0,
+   "bytes": 11674
+  },
+  "Minecraft/random/bowhit2": {
+   "file": "audio/Minecraft__random__bowhit2.opus",
+   "volume": 1.0,
+   "bytes": 10116
+  },
+  "Minecraft/random/bowhit3": {
+   "file": "audio/Minecraft__random__bowhit3.opus",
+   "volume": 1.0,
+   "bytes": 12790
+  },
+  "Minecraft/random/bowhit4": {
+   "file": "audio/Minecraft__random__bowhit4.opus",
+   "volume": 1.0,
+   "bytes": 17606
+  },
+  "Minecraft/random/break": {
+   "file": "audio/Minecraft__random__break.opus",
+   "volume": 1.0,
+   "bytes": 5654
+  },
+  "Minecraft/random/breath": {
+   "file": "audio/Minecraft__random__breath.opus",
+   "volume": 1.0,
+   "bytes": 14402
+  },
+  "Minecraft/random/burp": {
+   "file": "audio/Minecraft__random__burp.opus",
+   "volume": 1.0,
+   "bytes": 4148
+  },
+  "Minecraft/random/chestclosed": {
+   "file": "audio/Minecraft__random__chestclosed.opus",
+   "volume": 1.0,
+   "bytes": 7292
+  },
+  "Minecraft/random/chestopen": {
+   "file": "audio/Minecraft__random__chestopen.opus",
+   "volume": 1.0,
+   "bytes": 8304
+  },
+  "Minecraft/random/click": {
+   "file": "audio/Minecraft__random__click.opus",
+   "volume": 1.0,
+   "bytes": 5302
+  },
+  "Minecraft/random/door_close": {
+   "file": "audio/Minecraft__random__door_close.opus",
+   "volume": 1.0,
+   "bytes": 5114
+  },
+  "Minecraft/random/door_open": {
+   "file": "audio/Minecraft__random__door_open.opus",
+   "volume": 1.0,
+   "bytes": 5636
+  },
+  "Minecraft/random/drink": {
+   "file": "audio/Minecraft__random__drink.opus",
+   "volume": 1.0,
+   "bytes": 9280
+  },
+  "Minecraft/random/drr": {
+   "file": "audio/Minecraft__random__drr.opus",
+   "volume": 1.0,
+   "bytes": 9844
+  },
+  "Minecraft/random/eat1": {
+   "file": "audio/Minecraft__random__eat1.opus",
+   "volume": 1.0,
+   "bytes": 4530
+  },
+  "Minecraft/random/eat2": {
+   "file": "audio/Minecraft__random__eat2.opus",
+   "volume": 1.0,
+   "bytes": 4594
+  },
+  "Minecraft/random/eat3": {
+   "file": "audio/Minecraft__random__eat3.opus",
+   "volume": 1.0,
+   "bytes": 4694
+  },
+  "Minecraft/random/explode": {
+   "file": "audio/Minecraft__random__explode.opus",
+   "volume": 1.0,
+   "bytes": 14224
+  },
+  "Minecraft/random/explode1": {
+   "file": "audio/Minecraft__random__explode1.opus",
+   "volume": 1.0,
+   "bytes": 32412
+  },
+  "Minecraft/random/explode2": {
+   "file": "audio/Minecraft__random__explode2.opus",
+   "volume": 1.0,
+   "bytes": 35702
+  },
+  "Minecraft/random/explode3": {
+   "file": "audio/Minecraft__random__explode3.opus",
+   "volume": 1.0,
+   "bytes": 35730
+  },
+  "Minecraft/random/explode4": {
+   "file": "audio/Minecraft__random__explode4.opus",
+   "volume": 1.0,
+   "bytes": 37070
+  },
+  "Minecraft/random/fizz": {
+   "file": "audio/Minecraft__random__fizz.opus",
+   "volume": 1.0,
+   "bytes": 23796
+  },
+  "Minecraft/random/fuse": {
+   "file": "audio/Minecraft__random__fuse.opus",
+   "volume": 1.0,
+   "bytes": 45854
+  },
+  "Minecraft/random/glass1": {
+   "file": "audio/Minecraft__random__glass1.opus",
+   "volume": 1.0,
+   "bytes": 9336
+  },
+  "Minecraft/random/glass2": {
+   "file": "audio/Minecraft__random__glass2.opus",
+   "volume": 1.0,
+   "bytes": 8048
+  },
+  "Minecraft/random/glass3": {
+   "file": "audio/Minecraft__random__glass3.opus",
+   "volume": 1.0,
+   "bytes": 7632
+  },
+  "Minecraft/random/hurt": {
+   "file": "audio/Minecraft__random__hurt.opus",
+   "volume": 1.0,
+   "bytes": 12278
+  },
+  "Minecraft/random/levelup": {
+   "file": "audio/Minecraft__random__levelup.opus",
+   "volume": 1.0,
+   "bytes": 44902
+  },
+  "Minecraft/random/old_explode": {
+   "file": "audio/Minecraft__random__old_explode.opus",
+   "volume": 1.0,
+   "bytes": 14228
+  },
+  "Minecraft/random/orb": {
+   "file": "audio/Minecraft__random__orb.opus",
+   "volume": 1.0,
+   "bytes": 6044
+  },
+  "Minecraft/random/pop": {
+   "file": "audio/Minecraft__random__pop.opus",
+   "volume": 1.0,
+   "bytes": 1000
+  },
+  "Minecraft/random/splash": {
+   "file": "audio/Minecraft__random__splash.opus",
+   "volume": 1.0,
+   "bytes": 15248
+  },
+  "Minecraft/random/wood_click": {
+   "file": "audio/Minecraft__random__wood_click.opus",
+   "volume": 1.0,
+   "bytes": 1264
+  },
+  "Minecraft/step/cloth1": {
+   "file": "audio/Minecraft__step__cloth1.opus",
+   "volume": 1.0,
+   "bytes": 2934
+  },
+  "Minecraft/step/cloth2": {
+   "file": "audio/Minecraft__step__cloth2.opus",
+   "volume": 1.0,
+   "bytes": 3274
+  },
+  "Minecraft/step/cloth3": {
+   "file": "audio/Minecraft__step__cloth3.opus",
+   "volume": 1.0,
+   "bytes": 3122
+  },
+  "Minecraft/step/cloth4": {
+   "file": "audio/Minecraft__step__cloth4.opus",
+   "volume": 1.0,
+   "bytes": 3054
+  },
+  "Minecraft/step/grass1": {
+   "file": "audio/Minecraft__step__grass1.opus",
+   "volume": 1.0,
+   "bytes": 6580
+  },
+  "Minecraft/step/grass2": {
+   "file": "audio/Minecraft__step__grass2.opus",
+   "volume": 1.0,
+   "bytes": 7072
+  },
+  "Minecraft/step/grass3": {
+   "file": "audio/Minecraft__step__grass3.opus",
+   "volume": 1.0,
+   "bytes": 5944
+  },
+  "Minecraft/step/grass4": {
+   "file": "audio/Minecraft__step__grass4.opus",
+   "volume": 1.0,
+   "bytes": 7292
+  },
+  "Minecraft/step/gravel1": {
+   "file": "audio/Minecraft__step__gravel1.opus",
+   "volume": 1.0,
+   "bytes": 3248
+  }
+ },
+ "events": {
+  "Minecraft/ambient/cave/cave": [
+   {
+    "s": "Minecraft/ambient/cave/cave2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave5",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave6",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave7",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave9",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave10",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave11",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave12",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave13",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave1_fixed",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/cave/cave8_fixed",
+    "w": 100
+   }
+  ],
+  "Minecraft/ambient/weather/rain": [
+   {
+    "s": "Minecraft/ambient/weather/rain1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/weather/rain2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/weather/rain3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/weather/rain4",
+    "w": 100
+   }
+  ],
+  "Minecraft/ambient/weather/thunder": [
+   {
+    "s": "Minecraft/ambient/weather/thunder1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/weather/thunder2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/ambient/weather/thunder3",
+    "w": 100
+   }
+  ],
+  "Minecraft/damage/fallbig": [
+   {
+    "s": "Minecraft/damage/fallbig1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/damage/fallbig2",
+    "w": 100
+   }
+  ],
+  "Minecraft/damage/fallsmall": [
+   {
+    "s": "Minecraft/damage/fallsmall",
+    "w": 100
+   }
+  ],
+  "Minecraft/damage/hurtflesh": [
+   {
+    "s": "Minecraft/damage/hurtflesh1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/damage/hurtflesh2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/damage/hurtflesh3",
+    "w": 100
+   }
+  ],
+  "Minecraft/fire/fire": [
+   {
+    "s": "Minecraft/fire/fire",
+    "w": 100
+   }
+  ],
+  "Minecraft/fire/ignite": [
+   {
+    "s": "Minecraft/fire/ignite",
+    "w": 100
+   }
+  ],
+  "Minecraft/liquid/lava": [
+   {
+    "s": "Minecraft/liquid/lava",
+    "w": 100
+   }
+  ],
+  "Minecraft/liquid/lavapop": [
+   {
+    "s": "Minecraft/liquid/lavapop",
+    "w": 100
+   }
+  ],
+  "Minecraft/liquid/splash": [
+   {
+    "s": "Minecraft/liquid/splash",
+    "w": 100
+   }
+  ],
+  "Minecraft/liquid/water": [
+   {
+    "s": "Minecraft/liquid/water",
+    "w": 100
+   }
+  ],
+  "Minecraft/loops/birds_screaming_loop": [
+   {
+    "s": "Minecraft/loops/birds_screaming_loop",
+    "w": 100
+   }
+  ],
+  "Minecraft/loops/cave_chimes": [
+   {
+    "s": "Minecraft/loops/cave_chimes",
+    "w": 100
+   }
+  ],
+  "Minecraft/loops/ocean": [
+   {
+    "s": "Minecraft/loops/ocean",
+    "w": 100
+   }
+  ],
+  "Minecraft/loops/waterfall": [
+   {
+    "s": "Minecraft/loops/waterfall",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/blaze/breathe": [
+   {
+    "s": "Minecraft/mob/blaze/breathe1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/breathe2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/breathe3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/breathe4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/blaze/death": [
+   {
+    "s": "Minecraft/mob/blaze/death",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/blaze/hit": [
+   {
+    "s": "Minecraft/mob/blaze/hit1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/hit2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/hit3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/blaze/hit4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cat/hiss": [
+   {
+    "s": "Minecraft/mob/cat/hiss1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/hiss2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/hiss3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cat/hit": [
+   {
+    "s": "Minecraft/mob/cat/hitt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/hitt2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/hitt3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cat/meow": [
+   {
+    "s": "Minecraft/mob/cat/meow1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/meow2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/meow3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/meow4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cat/purr": [
+   {
+    "s": "Minecraft/mob/cat/purr1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/purr2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/purr3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cat/purreow": [
+   {
+    "s": "Minecraft/mob/cat/purreow1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cat/purreow2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/chicken": [
+   {
+    "s": "Minecraft/mob/chicken1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/chicken2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/chicken3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/chickenhurt": [
+   {
+    "s": "Minecraft/mob/chickenhurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/chickenhurt2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/chickenplop": [
+   {
+    "s": "Minecraft/mob/chickenplop",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cow": [
+   {
+    "s": "Minecraft/mob/cow1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cow2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cow3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cow4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/cowhurt": [
+   {
+    "s": "Minecraft/mob/cowhurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cowhurt2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/cowhurt3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/creeper": [
+   {
+    "s": "Minecraft/mob/creeper1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/creeper2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/creeper3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/creeper4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/creeperdeath": [
+   {
+    "s": "Minecraft/mob/creeperdeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/enderdragon/end": [
+   {
+    "s": "Minecraft/mob/enderdragon/end",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/enderdragon/growl": [
+   {
+    "s": "Minecraft/mob/enderdragon/growl1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/growl2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/growl3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/growl4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/enderdragon/hit": [
+   {
+    "s": "Minecraft/mob/enderdragon/hit1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/hit2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/hit3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/hit4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/enderdragon/wings": [
+   {
+    "s": "Minecraft/mob/enderdragon/wings1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/wings2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/wings3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/wings4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/wings5",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/enderdragon/wings6",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/death": [
+   {
+    "s": "Minecraft/mob/endermen/death",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/hit": [
+   {
+    "s": "Minecraft/mob/endermen/hit1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/hit2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/hit3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/hit4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/idle": [
+   {
+    "s": "Minecraft/mob/endermen/idle1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/idle2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/idle3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/idle4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/idle5",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/portal": [
+   {
+    "s": "Minecraft/mob/endermen/portal",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/portal2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/scream": [
+   {
+    "s": "Minecraft/mob/endermen/scream1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/scream2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/scream3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/endermen/scream4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/endermen/stare": [
+   {
+    "s": "Minecraft/mob/endermen/stare",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/affectionate_scream": [
+   {
+    "s": "Minecraft/mob/ghast/affectionate_scream",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/charge": [
+   {
+    "s": "Minecraft/mob/ghast/charge",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/death": [
+   {
+    "s": "Minecraft/mob/ghast/death",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/fireball": [
+   {
+    "s": "Minecraft/mob/ghast/fireball4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/moan": [
+   {
+    "s": "Minecraft/mob/ghast/moan1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan5",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan6",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/moan7",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/ghast/scream": [
+   {
+    "s": "Minecraft/mob/ghast/scream1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/scream2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/scream3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/scream4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/ghast/scream5",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/magmacube/big": [
+   {
+    "s": "Minecraft/mob/magmacube/big1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/big2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/big3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/big4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/magmacube/jump": [
+   {
+    "s": "Minecraft/mob/magmacube/jump1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/jump2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/jump3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/jump4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/magmacube/small": [
+   {
+    "s": "Minecraft/mob/magmacube/small1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/small2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/small3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/small4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/magmacube/small5",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/pig": [
+   {
+    "s": "Minecraft/mob/pig1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/pig2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/pig3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/pigdeath": [
+   {
+    "s": "Minecraft/mob/pigdeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/sheep": [
+   {
+    "s": "Minecraft/mob/sheep1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/sheep2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/sheep3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/silverfish/hit": [
+   {
+    "s": "Minecraft/mob/silverfish/hit1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/hit2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/hit3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/silverfish/kill": [
+   {
+    "s": "Minecraft/mob/silverfish/kill",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/silverfish/say": [
+   {
+    "s": "Minecraft/mob/silverfish/say1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/say2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/say3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/say4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/silverfish/step": [
+   {
+    "s": "Minecraft/mob/silverfish/step1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/step2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/step3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/silverfish/step4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/skeleton": [
+   {
+    "s": "Minecraft/mob/skeleton1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/skeleton2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/skeleton3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/skeletondeath": [
+   {
+    "s": "Minecraft/mob/skeletondeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/skeletonhurt": [
+   {
+    "s": "Minecraft/mob/skeletonhurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/skeletonhurt2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/skeletonhurt3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/skeletonhurt4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/slime": [
+   {
+    "s": "Minecraft/mob/slime1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/slime2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/slime3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/slime4",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/slime5",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/slimeattack": [
+   {
+    "s": "Minecraft/mob/slimeattack1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/slimeattack2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/spider": [
+   {
+    "s": "Minecraft/mob/spider1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/spider2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/spider3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/spider4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/spiderdeath": [
+   {
+    "s": "Minecraft/mob/spiderdeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/bark": [
+   {
+    "s": "Minecraft/mob/wolf/bark1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/bark2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/bark3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/death": [
+   {
+    "s": "Minecraft/mob/wolf/death",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/growl": [
+   {
+    "s": "Minecraft/mob/wolf/growl1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/growl2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/growl3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/howl": [
+   {
+    "s": "Minecraft/mob/wolf/howl1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/howl2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/hurt": [
+   {
+    "s": "Minecraft/mob/wolf/hurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/hurt2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/wolf/hurt3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/panting": [
+   {
+    "s": "Minecraft/mob/wolf/panting",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/shake": [
+   {
+    "s": "Minecraft/mob/wolf/shake",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/wolf/whine": [
+   {
+    "s": "Minecraft/mob/wolf/whine",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombie": [
+   {
+    "s": "Minecraft/mob/zombie1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombie/metal": [
+   {
+    "s": "Minecraft/mob/zombie/metal1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie/metal2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie/metal3",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombie/wood": [
+   {
+    "s": "Minecraft/mob/zombie/wood1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie/wood2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie/wood3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombie/wood4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombie/woodbreak": [
+   {
+    "s": "Minecraft/mob/zombie/woodbreak",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiedeath": [
+   {
+    "s": "Minecraft/mob/zombiedeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiehurt": [
+   {
+    "s": "Minecraft/mob/zombiehurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiehurt2",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiepig/zpig": [
+   {
+    "s": "Minecraft/mob/zombiepig/zpig1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpig2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpig3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpig4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiepig/zpigangry": [
+   {
+    "s": "Minecraft/mob/zombiepig/zpigangry1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpigangry2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpigangry3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpigangry4",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiepig/zpigdeath": [
+   {
+    "s": "Minecraft/mob/zombiepig/zpigdeath",
+    "w": 100
+   }
+  ],
+  "Minecraft/mob/zombiepig/zpighurt": [
+   {
+    "s": "Minecraft/mob/zombiepig/zpighurt1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/mob/zombiepig/zpighurt2",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/bass": [
+   {
+    "s": "Minecraft/note/bass",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/bassattack": [
+   {
+    "s": "Minecraft/note/bassattack",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/bd": [
+   {
+    "s": "Minecraft/note/bd",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/btn_Back": [
+   {
+    "s": "Minecraft/note/btn_Back",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/harp": [
+   {
+    "s": "Minecraft/note/harp",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/hat": [
+   {
+    "s": "Minecraft/note/hat",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/pling": [
+   {
+    "s": "Minecraft/note/pling",
+    "w": 100
+   }
+  ],
+  "Minecraft/note/snare": [
+   {
+    "s": "Minecraft/note/snare",
+    "w": 100
+   }
+  ],
+  "Minecraft/portal/portal": [
+   {
+    "s": "Minecraft/portal/portal",
+    "w": 100
+   }
+  ],
+  "Minecraft/portal/travel": [
+   {
+    "s": "Minecraft/portal/travel",
+    "w": 100
+   }
+  ],
+  "Minecraft/portal/trigger": [
+   {
+    "s": "Minecraft/portal/trigger",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/bow": [
+   {
+    "s": "Minecraft/random/bow",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/bowhit": [
+   {
+    "s": "Minecraft/random/bowhit1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/bowhit2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/bowhit3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/bowhit4",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/break": [
+   {
+    "s": "Minecraft/random/break",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/breath": [
+   {
+    "s": "Minecraft/random/breath",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/burp": [
+   {
+    "s": "Minecraft/random/burp",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/chestclosed": [
+   {
+    "s": "Minecraft/random/chestclosed",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/chestopen": [
+   {
+    "s": "Minecraft/random/chestopen",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/click": [
+   {
+    "s": "Minecraft/random/click",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/door_close": [
+   {
+    "s": "Minecraft/random/door_close",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/door_open": [
+   {
+    "s": "Minecraft/random/door_open",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/drink": [
+   {
+    "s": "Minecraft/random/drink",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/drr": [
+   {
+    "s": "Minecraft/random/drr",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/eat": [
+   {
+    "s": "Minecraft/random/eat1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/eat2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/eat3",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/explode": [
+   {
+    "s": "Minecraft/random/explode1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/explode2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/explode3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/explode4",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/fizz": [
+   {
+    "s": "Minecraft/random/fizz",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/fuse": [
+   {
+    "s": "Minecraft/random/fuse",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/glass": [
+   {
+    "s": "Minecraft/random/glass1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/glass2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/random/glass3",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/hurt": [
+   {
+    "s": "Minecraft/random/hurt",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/levelup": [
+   {
+    "s": "Minecraft/random/levelup",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/old_explode": [
+   {
+    "s": "Minecraft/random/old_explode",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/orb": [
+   {
+    "s": "Minecraft/random/orb",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/pop": [
+   {
+    "s": "Minecraft/random/pop",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/splash": [
+   {
+    "s": "Minecraft/random/splash",
+    "w": 100
+   }
+  ],
+  "Minecraft/random/wood_click": [
+   {
+    "s": "Minecraft/random/wood_click",
+    "w": 100
+   }
+  ],
+  "Minecraft/step/cloth": [
+   {
+    "s": "Minecraft/step/cloth1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/cloth2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/cloth3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/cloth4",
+    "w": 100
+   }
+  ],
+  "Minecraft/step/grass": [
+   {
+    "s": "Minecraft/step/grass1",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/grass2",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/grass3",
+    "w": 100
+   },
+   {
+    "s": "Minecraft/step/grass4",
+    "w": 100
+   }
+  ],
+  "Minecraft/step/gravel": [
+   {
+    "s": "Minecraft/step/gravel1",
+    "w": 100
+   }
+  ]
+ },
+ "music": {
+  "calm1": "audio/music__calm1.opus",
+  "calm2": "audio/music__calm2.opus",
+  "calm3": "audio/music__calm3.opus",
+  "creative1": "audio/music__creative1.opus",
+  "creative2": "audio/music__creative2.opus",
+  "creative3": "audio/music__creative3.opus",
+  "creative4": "audio/music__creative4.opus",
+  "creative5": "audio/music__creative5.opus",
+  "creative6": "audio/music__creative6.opus",
+  "hal1": "audio/music__hal1.opus",
+  "hal2": "audio/music__hal2.opus",
+  "hal3": "audio/music__hal3.opus",
+  "hal4": "audio/music__hal4.opus",
+  "menu1": "audio/music__menu1.opus",
+  "menu2": "audio/music__menu2.opus",
+  "menu3": "audio/music__menu3.opus",
+  "menu4": "audio/music__menu4.opus",
+  "nether1": "audio/music__nether1.opus",
+  "nether2": "audio/music__nether2.opus",
+  "nether3": "audio/music__nether3.opus",
+  "nether4": "audio/music__nether4.opus",
+  "nuance1": "audio/music__nuance1.opus",
+  "nuance2": "audio/music__nuance2.opus",
+  "piano1": "audio/music__piano1.opus",
+  "piano2": "audio/music__piano2.opus",
+  "piano3": "audio/music__piano3.opus",
+  "the_end_dragon_alive": "audio/music__the_end_dragon_alive.opus",
+  "the_end_end": "audio/music__the_end_end.opus",
+  "11": "audio/music__11.opus",
+  "13": "audio/music__13.opus",
+  "blocks": "audio/music__blocks.opus",
+  "cat": "audio/music__cat.opus",
+  "chirp": "audio/music__chirp.opus",
+  "far": "audio/music__far.opus",
+  "mall": "audio/music__mall.opus",
+  "mellohi": "audio/music__mellohi.opus",
+  "stal": "audio/music__stal.opus",
+  "strad": "audio/music__strad.opus",
+  "ward": "audio/music__ward.opus",
+  "where_are_we_now": "audio/music__where_are_we_now.opus"
+ }
+}

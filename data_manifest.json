@@ -1,0 +1,19 @@
+{
+  "total_bytes": 177866462,
+  "chunk_count": 2,
+  "max_chunk_bytes": 99614720,
+  "chunks": [
+    {
+      "file": "minecraft.data.0000",
+      "start": 0,
+      "end": 99614720,
+      "size": 99614720
+    },
+    {
+      "file": "minecraft.data.0001",
+      "start": 99614720,
+      "end": 177866462,
+      "size": 78251742
+    }
+  ]
+}

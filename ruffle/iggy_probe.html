@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Ruffle Iggy probe</title>
+<style>
+  html,body{margin:0;background:#333;}
+  #player{width:1280px;height:720px;}
+</style>
+</head>
+<body>
+<div id="player"></div>
+<script src="ruffle.js"></script>
+<script>
+const ruffle = window.RufflePlayer.newest();
+const player = ruffle.createPlayer();
+player.style.width = "1280px";
+player.style.height = "720px";
+document.getElementById("player").appendChild(player);
+player.addEventListener("loadedmetadata", () => console.log("[probe] metadata", player.metadata));
+player.addEventListener("error", (e) => console.log("[probe] error", e));
+player.load("../media/InventoryMenu1080.swf").then(() => {
+  console.log("[probe] loaded");
+}).catch((e) => console.log("[probe] load failed", e));
+window.__probe = player;
+</script>
+</body>
+</html>
